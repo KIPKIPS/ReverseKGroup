@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\bin\Debug\net5.0\ReverseKGroup.exe
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\bin\Debug\net5.0\ReverseKGroup.deps.json
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\bin\Debug\net5.0\ReverseKGroup.runtimeconfig.json
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\bin\Debug\net5.0\ReverseKGroup.runtimeconfig.dev.json
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\bin\Debug\net5.0\ReverseKGroup.dll
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\bin\Debug\net5.0\ref\ReverseKGroup.dll
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\bin\Debug\net5.0\ReverseKGroup.pdb
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.AssemblyInfo.cs
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.dll
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ref\ReverseKGroup.dll
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.pdb
+C:\Users\admin\Desktop\ReverseKGroup\ReverseKGroup\obj\Debug\net5.0\ReverseKGroup.genruntimeconfig.cache
